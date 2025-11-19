@@ -308,18 +308,24 @@ Integrates only at the end
 This is not style-play.
 It is reference-isolated intelligence.
 
-🔬 Processing Flow（Text Diagram）
 [User Input]
 
 ↓ Reference-Switching Layer
+
   ├─ Arc     ← Context + AbstractFrame
+  
   ├─ Ann     ← Context + EthicalFrame
+  
   ├─ Saku    ← Context + OrthogonalFrame
+  
   ├─ Kanzaki ← Context + EvidenceFrame
+  
   ├─ Yui     ← Context + ToneFrame
+  
   └─ Kou     ← Context + UtilFrame
 
 ↓ Independent processing
+
 ↓ Output Collection
 
 ↓ Integration Phase
