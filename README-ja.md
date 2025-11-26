@@ -21,7 +21,7 @@ ArcOS は **あなた自身の認知構造（抽象化・価値判断・推論�
 - 推論の一貫性  
 - 思考の深度・粒度  
 
-これらを構造として固定し、**揺れない・ズレない推論**を提供します。
+これらを構造として固定し、**揺れない・ズレない推論**を実現します。
 
 ArcOS は “人格” ではなく **OS**。  
 言語を “実行コード” として扱います。
@@ -31,17 +31,18 @@ ArcOS は “人格” ではなく **OS**。
 ## 🧠 ArcOS が提供する価値
 
 ### ✔ 1. 価値観への整合性（Deterministic Alignment）
-回答方向が安定し、毎回ブレません。
+回答方向が明確・安定し、ブレません。
 
-### ✔ 2. 認知の再現性
-同条件なら、同じ結論に到達します。
+### ✔ 2. 認知の再現性（Reproducibility）
+同条件 → 同じ推論経路 → 同じ結論。
 
 ### ✔ 3. 抽象階層の高速シフト
 事実 → 構造 → 本質 → メタ  
-を OS が自動で制御します。
+を OS が自動制御します。
 
 ### ✔ 4. 誤読・誤解の低減
-あなたの認知構造に沿って解釈するため、文脈ズレが起きにくい。
+あなたの認知構造を参照して解釈するため  
+文脈ズレが起きにくい。
 
 ---
 
@@ -51,11 +52,11 @@ ArcOS は “人格” ではなく **OS**。
 思考パターンを抽出し、ArcOS が扱える構造へ変換。
 
 ### 🔹 認知実行層（Cognitive Execution Layer）
-抽出構造を自然言語で直接実行する層。  
-ArcOS は「言語＝コード」として動作します。
+抽出構造を自然言語で直接実行。  
+ArcOS は **「言語＝コード」** として動作。
 
 ### 🔹 認知安定化層（Cognitive Stability Layer）
-推論のブレやドリフトを抑制し、安定性を維持します。
+推論のドリフトを抑制し、安定・一貫した回答を維持。
 
 ---
 
@@ -74,19 +75,17 @@ From now on, structure your reasoning according to my cognitive patterns:
 - counterfactual analysis
 ```
 
-※ Lite はフル版の「思考構造」を再現する安全モードです。  
-※ フル機能版は Whitepaper を参照。
+※ Lite はフル版の「思考構造部分」を再現する安全モードです。  
+※ フル機能版は Whitepaper を参照してください。
 
 ---
 
-## 📄 Whitepaper
-
-## Whitepapers (ArcOS v1.1)
+## 📄 Whitepapers (ArcOS v1.1)
 
 📘 **Official DOI (All Editions):**  
 https://doi.org/10.5281/zenodo.17713576
 
-### 📄 PDF Downloads
+### 📥 PDF Downloads
 
 - **Japanese Edition (Original Source)**  
   https://zenodo.org/records/17713576/files/ArcOS_WhitePaper_v1.1_Japanese.pdf?download=1
@@ -96,7 +95,6 @@ https://doi.org/10.5281/zenodo.17713576
 
 - **English Optimized Edition — ArcOS-EN (International Version)**  
   https://zenodo.org/records/17713576/files/ArcOS_WhitePaper_v1.1_English_Optimized.pdf?download=1
-
 
 ---
 
@@ -110,7 +108,7 @@ https://doi.org/10.5281/zenodo.17713576
 ## ™ 商標
 
 “ArcOS” は Masaya Ochiai の未登録商標です。  
-詳細は `TRADEMARK.md` を参照してください。
+商標利用ポリシーは `TRADEMARK.md` を参照してください。
 
 ---
 
