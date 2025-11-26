@@ -5,7 +5,7 @@
 
 **Concept by:** Masaya Ochiai  
 **Trademark:** “ArcOS”  
-**License:** CC BY-NC-SA 4.0  
+**License:** CC BY 4.0  
 **Series:** Natural-Language OS Series (ArcOS / PolyAgora / ECHOOS)
 
 ---
@@ -89,7 +89,7 @@ ArcOS v1.1 の完全仕様はこちら（日本語版）：
 
 ## 📘 ライセンス
 
-本プロジェクトは **CC BY-NC-SA 4.0** で公開されています。  
+本プロジェクトは **CC BY 4.0** で公開されています。  
 詳細は `LICENSE` を参照してください。
 
 ---
