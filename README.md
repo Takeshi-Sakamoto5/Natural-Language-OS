@@ -80,9 +80,22 @@ From now on, structure your reasoning according to my cognitive patterns:
 
 ## 📄 Whitepaper
 
-The full technical specification is available at:
+## Whitepapers (ArcOS v1.1)
 
-/whitepaper/ArcOS-Whitepaper-v1.1.pdf
+📘 **Official DOI (All Editions):**  
+https://doi.org/10.5281/zenodo.17713576
+
+### 📄 PDF Downloads
+
+- **Japanese Edition (Original Source)**  
+  https://zenodo.org/records/17713576/files/ArcOS_WhitePaper_v1.1_Japanese.pdf?download=1
+
+- **English Exact Edition (Full Technical Translation)**  
+  https://zenodo.org/records/17713576/files/ArcOS_WhitePaper_v1.1_English_Exact.pdf?download=1
+
+- **English Optimized Edition — ArcOS-EN (International Version)**  
+  https://zenodo.org/records/17713576/files/ArcOS_WhitePaper_v1.1_English_Optimized.pdf?download=1
+
 
 ---
 
