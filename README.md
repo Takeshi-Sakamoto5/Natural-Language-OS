@@ -434,15 +434,21 @@ PolyAgora **is**:
 
 ---
 
-# 📄 12. License (Detailed)
+## 📘 License
 
-This project is released under CC BY 4.0.
-See the LICENSE file for full details.
-- **Trademarks:** Informal attribution requested; not enforced.
+This project is released under **CC BY 4.0**.  
+See the `LICENSE` file for full details.
 
 ---
 
-# 👤 13. Credits
+## ™ Trademark
+
+“ArcOS” is an unregistered trademark of **Masaya Ochiai**.  
+See `TRADEMARK.md` for usage guidelines.
+
+---
+
+# 👤 Credits
 
 - **Concept & Architecture:** Masaya Ochiai  
 - **Natural-Language Engineering:** ChatGPT 5.1  
